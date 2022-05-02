@@ -1,9 +1,9 @@
 {
     "name": "hello-api",
     "description": "Hello World API",
-    "author": "Clara",
+    "author": "Phillip",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.18.1"
     },
     "scripts": {
         "start": "node ./server.js"
